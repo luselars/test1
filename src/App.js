@@ -21,13 +21,15 @@ function App() {
       </header>
 
       <body className="App-body">
+      
+      <Header/>
        
 
       </body>
 
       <footer className="App-footer">
           Footer
-          <Header/>
+          
       </footer>
     </div>
   );
